@@ -1,4 +1,7 @@
 # HTML Animation Deck
+<img width="2550" height="1275" alt="158a7b843651a800ca1a7b90dbad5440" src="https://github.com/user-attachments/assets/5a85308f-f4ba-4305-8ac7-4221d99551f0" />
+<img width="2550" height="1275" alt="1d62f5180e49170ca585610ca8091f93" src="https://github.com/user-attachments/assets/fd81b2f2-d5a6-41a0-a62a-0ce7eb9d0249" />
+<img width="2550" height="1275" alt="7ba3e9b6a02f6846cc12a154cae12ea9" src="https://github.com/user-attachments/assets/2a66a812-b40a-45df-986e-e435dcc1561a" />
 
 `html-animation-deck` 是一个 Codex Skill，用来把一句简短主题提示，自动扩展成经过资料梳理、叙事设计和视觉设计的 HTML 动画演示。
 
