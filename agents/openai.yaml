@@ -1,0 +1,4 @@
+interface:
+  display_name: "HTML Animation Deck"
+  short_description: "Research topics and create modern animated HTML presentations"
+  default_prompt: "Create a modern animated HTML presentation about a topic with $html-animation-deck."
